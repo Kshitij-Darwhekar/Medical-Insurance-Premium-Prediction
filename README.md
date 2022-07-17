@@ -8,23 +8,23 @@
 
    The primary source of data for this project was from Kaggle user MIRI CHOI. The data consists of 7 coloumns.
  
- Content 
+ Contents 
 
 
-i. age: age of primary beneficiary
+    i. age: age of primary beneficiary
 
-ii. sex: insurance contractor gender, female, male
+    ii. sex: insurance contractor gender, female, male
 
-iii. bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
+    iii. bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
           objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
   
-iv. children: Number of children covered by health insurance / Number of dependents
+    iv. children: Number of children covered by health insurance / Number of dependents
 
-v. smoker: Smoking
+    v. smoker: Smoking
 
-vi. region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+    vi. region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 
-vii. charges: Individual medical costs billed by health insurance
+    vii. charges: Individual medical costs billed by health insurance
 
 Link to dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance 
   
